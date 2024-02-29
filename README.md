@@ -11,9 +11,9 @@ Simple web crwaler tools Selenium , Os, Csv, Panadas
 ## Setup
 To Run this project, install it locally Or in Virtual Environment as your refercence ,using Python Package Managers(pip):
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ## Features
 * [Data Scraping for Strawberrynet & Sephora]
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Example
 
-'''
+```
 #whole process of strawberrynet data scraping
 strawberry_product_scraping(url)
 
@@ -33,7 +33,7 @@ st_data_clean(dir='./st_csv_folder')
 
 #return a list as [new_product_dataframe , new_data_dataframe]
 st_new_item_checker()
-'''
+```
 
 ## Technologies
 
