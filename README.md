@@ -4,7 +4,7 @@ Simple web crwaler tools Selenium , Os, Csv, Panadas
 ## Table of Content
 * [Setup](#Setup)
 * [Features](#Features)
-* [Example] (#Example)
+* [Example](#Example)
 * [Technologies](#Technologies)
 * [Website Related](#Website-Related)
 
@@ -23,8 +23,9 @@ pip install -r requirements.txt
 * [Cleaned data comparison with old data (but the first time)]
 
 ## Example
+
 '''
-#fisnish the whole process of strawberrynet data scraping
+#  whole process of strawberrynet data scraping
 strawberry_product_scraping(url)
 
 #clean all the scraped data and generate a csv file 
