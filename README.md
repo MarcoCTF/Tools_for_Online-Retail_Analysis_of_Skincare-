@@ -40,7 +40,7 @@ st_new_item_checker()
 Pandas version : 2.2.1
 selenium version : 4.18.1
 
-*more in requirements.txt(#requirements.txt)
+*more in requirements.txt*
 
 # Website Related
 * [https://www.sephora.hk/]
