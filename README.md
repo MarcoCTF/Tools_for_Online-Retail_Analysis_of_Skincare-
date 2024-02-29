@@ -25,13 +25,13 @@ pip install -r requirements.txt
 ## Example
 
 ```
-#whole process of strawberrynet data scraping
+# whole process of strawberrynet data scraping
 strawberry_product_scraping(url)
 
-#clean all the scraped data and generate a csv file 
+# clean all the scraped data and generate a csv file 
 st_data_clean(dir='./st_csv_folder')
 
-#return a list as [new_product_dataframe , new_data_dataframe]
+# return a list as [new_product_dataframe , new_data_dataframe]
 st_new_item_checker()
 ```
 
