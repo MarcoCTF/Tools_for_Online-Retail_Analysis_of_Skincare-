@@ -9,7 +9,7 @@ Simple web crwaler tools Selenium , Os, Csv, Panadas
 * [Website Related](#Website-Related)
 
 ## Setup
-To Run this project, install it locally Or in Virtual Environment as your refercence ,using Python Package Managers(pip):
+To Run this project, install it locally Or in Virtual Environment as your refercence, using Python Package Managers (pip) :
 
 ```
 pip install -r requirements.txt
