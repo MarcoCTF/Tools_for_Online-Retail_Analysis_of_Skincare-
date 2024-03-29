@@ -16,11 +16,11 @@ pip install -r requirements.txt
 ```
 
 ## Features
+* ETL pipeline set-up
 * Data Scraping for Strawberrynet & Sephora
 * Product detail URL Store in directory in your control
 * Generate Csv file for different product detail for each sub-categories
-* Cleaned data and  DataFracme or csv to SQL server
-* Cleaned data comparison with old data
+* New data comparison with old data
 
 ## Example
 
