@@ -37,8 +37,8 @@ st_new_item_checker()
 
 ## Technologies
 
-*Pandas version : 2.2.1
-*selenium version : 4.18.1
+* Pandas version : 2.2.1
+* selenium version : 4.18.1
 
 *more in requirements.txt*
 
