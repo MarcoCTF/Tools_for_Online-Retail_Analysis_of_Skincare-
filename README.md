@@ -1,5 +1,5 @@
 # Web Scraping - for Sephora & Strawberrynet
-Simple web crwaler tools Selenium , Os, Csv, Panadas
+Web crawler and demo tools 
 
 ## Table of Content
 * [Setup](#Setup)
