@@ -43,5 +43,5 @@ st_new_item_checker()
 *more in requirements.txt*
 
 # Website Related
-* [https://www.sephora.hk/]
-* [https://www.strawberrynet.com/en-hk]
+* [Sephora](https://www.sephora.hk/)
+* [Strawberrynet](https://www.strawberrynet.com/en-hk)
